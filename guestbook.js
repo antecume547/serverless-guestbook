@@ -1,5 +1,5 @@
 /**
- * Web application
+ *  Web application
  */
 const apiUrl = '';
 const guestbook = {
